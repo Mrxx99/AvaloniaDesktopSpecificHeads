@@ -1,7 +1,8 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <OutputType>WinExe</OutputType>
-    <TargetFramework>net7.0-macos10.12</TargetFramework>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0-macos10.14</TargetFramework>
+    <RuntimeIdentifier>osx-x64</RuntimeIdentifier>
     <Nullable>enable</Nullable>
     <BuiltInComInteropSupport>true</BuiltInComInteropSupport>
   </PropertyGroup>
